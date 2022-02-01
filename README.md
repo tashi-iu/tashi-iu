@@ -4,8 +4,6 @@ My name is Tashi Tobgay Dakpa. But everybody calls me - Dakpa.
 
 ![DrumsAndGuitars-PunkGIF](https://user-images.githubusercontent.com/25773716/151912684-df2cdbc2-2374-4a95-9129-06d22b64c38c.gif)
 
-_(Hope you caught the reference 😅)_
-
 ***
 
 ### :bhutan:
