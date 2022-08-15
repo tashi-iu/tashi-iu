@@ -1,7 +1,5 @@
 ### Hello 👋
 
-### :bhutan:
-
 ### 🔭 Selisian
 
 I am currently employed at [SELISE Bhutan](https://selise.ch/) - App Lab. I love the people (Selisians) and the work environment.
