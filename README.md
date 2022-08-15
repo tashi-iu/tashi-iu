@@ -4,7 +4,7 @@
 
 ### 🔭 Selisian
 
-I am currently employed at [SELISE Bhutan](https://selise.ch/) - CNC department. I love the people (Selisians) and the work environment.
+I am currently employed at [SELISE Bhutan](https://selise.ch/) - App Lab. I love the people (Selisians) and the work environment.
 
 [<img src="https://selise.ch/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" width="15%" />](https://selise.ch/)
 
