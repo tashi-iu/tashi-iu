@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-### 📫 Reach me out!
+### 📫 Reach out!
 
 <div>
   <img height="14px" width="14px" src="https://user-images.githubusercontent.com/25773716/151911700-799020ee-5d3f-436f-97d0-00fbff30e65f.png"/> 
