@@ -1,4 +1,7 @@
 <div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/438441a3-fd0f-4021-9029-787c1278e087.svg)](https://wakatime.com/@438441a3-fd0f-4021-9029-787c1278e087)
+  
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=tashi-iu&theme=tokyonight" alt="Tashi's streak stats"/>
   
   ### 💜💜💜
